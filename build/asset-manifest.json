@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d5c7080.css",
+    "main.js": "/static/js/main.ed96ad4c.js",
+    "static/media/llama.png": "/static/media/llama.bed5c9f8c0f506bf0429.png",
+    "static/media/gmx.png": "/static/media/gmx.ccf4b5e4b08459d7fe1d.png",
+    "static/media/1inch.png": "/static/media/1inch.82f9c034b3b6570c55dd.png",
+    "static/media/aave.png": "/static/media/aave.e148933d7b972825cb5d.png",
+    "static/media/atom.png": "/static/media/atom.2c9ee82d120ccf6b5729.png",
+    "static/media/sushi.png": "/static/media/sushi.26655881c7fcfe0070f5.png",
+    "static/media/ether.png": "/static/media/ether.a85b6de0dc4a013ae2f8.png",
+    "static/media/top.PNG": "/static/media/top.0ae49974a090bc40934f.PNG",
+    "static/media/desc.png": "/static/media/desc.05071566f1eefb880eee.png",
+    "static/media/sol.png": "/static/media/sol.88dd9cd2498aebe1ee8c.png",
+    "static/media/uniswap-uni-logo.png": "/static/media/uniswap-uni-logo.b26fd45eacb74a82fe93.png",
+    "static/media/alts.jpeg": "/static/media/alts.e3c5a59cdb5a76ad51d7.jpeg",
+    "static/media/network.png": "/static/media/network.72f23e7c237030b58178.png",
+    "static/media/pht.png": "/static/media/pht.40755d1e29ac5914081c.png",
+    "static/media/ladger.png": "/static/media/ladger.1ed2cf783a155a2fefaa.png",
+    "static/media/compound.png": "/static/media/compound.98b3480f0fe255a6a1ba.png",
+    "static/media/matic.png": "/static/media/matic.1140771b39c8269a6d1b.png",
+    "static/media/monero.png": "/static/media/monero.a8f9c69c951303786a8f.png",
+    "static/media/bitcoin.jpeg": "/static/media/bitcoin.cc0d8b53a29af6a0f5e4.jpeg",
+    "static/media/aurigami.png": "/static/media/aurigami.db6859a39de5158201df.png",
+    "static/media/meta.png": "/static/media/meta.a5a63d6b4b3d9298220f.png",
+    "static/media/avax.png": "/static/media/avax.e1fb45e8e070674b1a54.png",
+    "static/media/contract.png": "/static/media/contract.4de355a49b771c626fcd.png",
+    "static/media/keys.png": "/static/media/keys.85b7c5530981a0804a6f.png",
+    "static/media/block.jpg": "/static/media/block.7bb747ca9111e780c59d.jpg",
+    "static/media/crypt.png": "/static/media/crypt.5799328c70d8d68ce3af.png",
+    "static/media/trust.png": "/static/media/trust.c643acc137303c33d7b6.png",
+    "static/media/joe.png": "/static/media/joe.a225643e76b4d0ef5801.png",
+    "static/media/bungee.svg": "/static/media/bungee.c34f8b26af42ec9eb9e436e949fe769f.svg",
+    "index.html": "/index.html",
+    "main.8d5c7080.css.map": "/static/css/main.8d5c7080.css.map",
+    "main.ed96ad4c.js.map": "/static/js/main.ed96ad4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d5c7080.css",
+    "static/js/main.ed96ad4c.js"
+  ]
+}
