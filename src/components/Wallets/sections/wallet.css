@@ -1,0 +1,122 @@
+.body-title{
+  display:flex;
+  cursor: default
+}
+
+.body-title h1{
+  position: relative;
+  bottom: 7px;
+}
+
+.body-text{
+  text-align: center;
+  font-size: 36px;
+  background: var(--gradient-text);
+  background-clip: text;
+  -webkit-background-clop: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.body-title svg:hover{
+  animation: rotate-center 3s ease-in-out;
+}
+
+@-webkit-keyframes rotate-center {
+  0% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes rotate-center {
+  0% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+.body-list p{
+  margin-left: 1.5rem;
+  cursor: default;
+}
+
+.body-list{
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+.body-title h1{
+  font-family: var(--font-family);
+  
+}
+
+.show{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.show img:hover{
+ transform: none;
+}
+
+.source{
+  font-size: 12px;
+  text-align: center;
+}
+
+.body{
+  margin : 0.5rem auto;
+  background-color: rgba(87, 105, 118, 0.153);
+  align-self: center;
+  font-size: 22px;
+  max-width: 1080px;
+  justify-content: center;
+}
+
+.body h1{
+  cursor: default;
+}
+
+.body p{
+  margin: 0.7rem;
+  cursor: default;
+}
+
+.body ul{
+  list-style-type: none;
+  cursor: default;
+}
+
+.body li{
+  margin: 0.7rem;
+  margin-left: 2rem;
+}
+
+.body iframe{
+  width: 100%;
+  height: 700px;
+  display: block;
+  margin: 0 auto;
+}
+
+.top img{
+  float: none;
+  max-width: 100%;
+}
+
+.top{
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.top img:hover{
+  transform: none;
+}

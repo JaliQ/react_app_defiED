@@ -1,0 +1,29 @@
+.Footer{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  padding: 5px;
+  margin-bottom: 0.5rem;
+}
+
+.Footer i{
+  font-size: 30px;
+  color: white;
+}
+
+.Footer button{
+  height: 34px;
+  width: 100px;
+  border-radius: 5px;
+  border-color: white;
+  background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49A71 100%);
+  display: inline-block;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease;
+}
+
+.Footer button :hover{
+  transform: scale(105%);
+}

@@ -1,0 +1,110 @@
+.whatis p{
+  font-size: 19px;
+  margin: 0.5rem;
+  margin-top: 10px;
+}
+
+.whatis{
+  margin : 0.5rem auto;
+  background-color: rgba(87, 105, 118, 0.153);
+  align-self: center;
+  font-size: 22px;
+  max-width: 1080px;
+  justify-content: center;
+}
+
+.whatis-bc{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.fa-solid:hover{
+  cursor: pointer;
+}
+
+.whatis-bc img{
+  max-width: 100%;
+  max-height: 100%;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  border: 2px solid black;
+  transition: all 2s ease-out;
+  opacity: 0.9;
+}
+
+.whatis-bc img:hover{
+  opacity: 1;
+  transform: scale(98%);
+}
+
+.whatis h1{
+  font-size: 40px;
+}
+
+.whatis-sha256{
+  margin: 0.5rem;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  max-width:520px;
+}
+
+.whatis-img{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.whatis-img p{
+  font-size: 14px;
+  font-style: italic;
+}
+
+.whatis img{
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.whatis-olsus{
+  margin: 0.5rem;
+  font-size: 20px;
+}
+
+
+.whatis-olsus ul{
+  list-style-type: none;
+}
+
+.whatis-olsus li{
+  margin-top: 7px;
+  margin-left: 20px;
+}
+
+.whatis-tagsus{
+  font-size: 29px;
+  font-weight: bold;
+  font-family: var(--font-family)
+}
+
+.whatis-sha256 input{
+  background-color: #1c334b39;
+  min-height: 50px;
+  padding: 8px;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+  font-family: var(--font-family);
+  font-size: 14px;
+}
+
+.whatis-sha256 input:hover{
+  cursor: pointer;
+}
+
+.whatis-sha256 input:focus {
+  outline: none;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2), 0 0 0 2px #007bff;
+}
+
